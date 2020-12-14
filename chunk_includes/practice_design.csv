@@ -1,0 +1,6 @@
+﻿trial,teacher_word,student_word,type,related,participant
+trial,money_p.wav,dollar.wav,english,y,child
+trial,carrot_p.wav,tiv.wav,alien,n,child
+trial,bed_p.wav,pillow.wav,english,y,child
+trial,spoon_p.wav,cloud.wav,english,n,child
+trial,penguin_p.wav,afrap.wav,alien,n,child
